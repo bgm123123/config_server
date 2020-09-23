@@ -1,5 +1,7 @@
 server:
   port: 8181
+bus:
+  test: aaaa
 
 eureka:
   instance:
